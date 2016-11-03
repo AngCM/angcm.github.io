@@ -18,12 +18,12 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('http://portland.nationalpti.edu/wp-content/uploads/2014/06/grey-background-tile-6431-1024x639.jpg') no-repeat center center scroll;
+	background: url('') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('http://portland.nationalpti.edu/wp-content/uploads/2014/06/grey-background-tile-6431-1024x639.jpg') no-repeat center center scroll;
+	background: url(') no-repeat center center scroll;
     height: 450px;
 }
 
